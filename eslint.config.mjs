@@ -18,6 +18,7 @@ export default [
       eqeqeq: 2,             // помилка
       "prefer-const": 2,     // помилка
       "no-var": 2,           // помилка
+        "no-undef": 1, // попередження 
     },
   },
   eslintConfigPrettier,
